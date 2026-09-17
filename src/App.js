@@ -250,6 +250,13 @@ const PROJECTS = [
     icon: "🗄️",
     desc: "Full Stack Backend + Frontend",
   },
+   {
+    name: "AI Study Notes host live one ",
+    url: "https://ainoteden.onrender.com/api/open7",
+    github: "https://github.com/Vamsi759/AiNoteden/tree/main",
+    icon: "🤖",
+    desc: "AI-Powered Study Notes Saver",
+  },
 ];
 /*
 {
