@@ -251,8 +251,15 @@ const PROJECTS = [
     desc: "Full Stack Backend + Frontend",
   },
    {
-    name: "AI Study Notes host live one ",
+    name: "AI Study Notes host live one 11 ",
     url: "https://ainoteden.onrender.com/api/open7",
+    github: "https://github.com/Vamsi759/AiNoteden/tree/main",
+    icon: "🤖",
+    desc: "AI-Powered Study Notes Saver",
+  },
+   {
+    name: "AI Study Notes host live two 22 ",
+    url: "https://ainotedenhostlivetwo.onrender.com/api/open7",
     github: "https://github.com/Vamsi759/AiNoteden/tree/main",
     icon: "🤖",
     desc: "AI-Powered Study Notes Saver",
